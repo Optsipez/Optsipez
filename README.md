@@ -2,7 +2,7 @@
 <h3 align="center">I build the internal tools, AI agents, and automations that companies keep meaning to build and never do.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F72222&center=true&vCenter=true&width=650&lines=Full-stack+%2B+AI%2Fdata+engineering;SEO+%2F+digital+marketing+on+the+side;Technical+implementer+at+a+Dubai+retailer;Dubai%2C+juggling+multiple+contexts+at+once" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F72222&center=true&vCenter=true&width=650&lines=Full-Stack+%2B+AI%2FData+Engineering;SEO+%2F+Digital+Marketing+on+the+side;Technical+Implementer+at+a+Dubai+Retailer;Dubai%2C+juggling+multiple+contexts+at+once" alt="Typing SVG" />
 </p>
 
 <p align="center">
