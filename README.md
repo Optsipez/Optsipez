@@ -21,7 +21,6 @@ Off the clock, I'm neck-deep in ROS2 and TurtleBot3 simulations trying to get a 
 
 ### What I actually do
 
-- Cut my teeth at **EP Tech**, a product studio building agentic AI tools, before moving on
 - Technical implementer at a Dubai home-furnishings retailer — I'm the one-person team turning "can someone build us a tool for this" into shipped software
 - Tech has always been the core — SEO and digital marketing run alongside it as a side hustle, not the other way around
 - Based in Dubai, usually running 2-3 client or employer contexts at the same time and somehow keeping them straight
@@ -75,16 +74,12 @@ My dive into control systems at the hardware level — an autonomous robot built
 ### The numbers
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Optsipez&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optsipez&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Optsipez&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Optsipez&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Optsipez&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Optsipez&theme=redical&hide_border=true" alt="activity graph" />
 </p>
 
 ---
